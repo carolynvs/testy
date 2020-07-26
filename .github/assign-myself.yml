@@ -1,0 +1,13 @@
+
+# Search issue comments for these substrings to determine if
+# the issue should be assigned
+claimMessage:
+  - 'I want to work on this'
+  - '/assign'
+  - '🙋🏽‍♀️'
+
+# Comment with this message when the issue is assigned
+assignedMessage: 'It's all yours!'
+
+# Comment with this message when the issue is already assigned
+noReassignmentMessage: 'Sorry! Someone is already working on this issue.'
